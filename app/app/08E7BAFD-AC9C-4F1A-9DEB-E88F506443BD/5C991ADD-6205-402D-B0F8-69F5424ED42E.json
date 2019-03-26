@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5C991ADD-6205-402D-B0F8-69F5424ED42E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 25,
+    "width": 343,
+    "x": 16,
+    "y": 727
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "title1 copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1C70D5EB-4A43-4B33-AFD5-0167311290D8",
+      "overrideName": "F43CF65C-328D-49B5-93B6-C0517E72DE2C_stringValue",
+      "value": "玉在山而木润，玉韫石而山辉。"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "71241374-5BEC-4107-A463-5E46C296673D",
+      "overrideName": "22941905-77B9-42D8-814D-EA97FE637B29_stringValue",
+      "value": "美玉鉴赏"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3308BAC1-5398-4721-8727-F61536545DDF",
+  "verticalSpacing": 0
+}

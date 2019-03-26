@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AEAA1757-4FAA-43AB-A5E9-225E6E8DA333",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 25,
+    "width": 343,
+    "x": 16,
+    "y": 543
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "title1",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C4EED9AE-BCA9-4056-89E2-819BFD53A832",
+      "overrideName": "F43CF65C-328D-49B5-93B6-C0517E72DE2C_stringValue",
+      "value": "诠释春意的颜色"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7258DA8B-9DB1-434C-BBC2-7BE237E7B3EC",
+      "overrideName": "22941905-77B9-42D8-814D-EA97FE637B29_stringValue",
+      "value": "美玉推荐"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3308BAC1-5398-4721-8727-F61536545DDF",
+  "verticalSpacing": 0
+}

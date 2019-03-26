@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "159575F7-0F17-4697-8F8A-35EE70749C05",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 124,
+    "width": 100,
+    "x": 144,
+    "y": 583
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "home-list-01 copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "30A0709B-B9DD-411B-A716-39620AFA2D91",
+      "overrideName": "3D2E5170-ECC8-4167-B16D-8CEC82810C3A/E75C480B-7531-4632-BE68-D2ECFBF45FA0_stringValue",
+      "value": "热卖"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AF490C06-9578-46EA-9968-F58422378F76",
+      "overrideName": "A7F84E61-DB2A-4C51-8E21-C84F1B686823_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/c48093e05d16c388dc999f3ebe0c5904f1d849ca.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B891394A-5A89-4996-BA09-49FE6CBB7BA4",
+      "overrideName": "30B3C749-A9A3-4C4D-88B2-3E69FB6879E2_stringValue",
+      "value": "糖白玉巧雕手镯"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3CC6E3D1-BD16-4219-802F-5E2C8BEF9088",
+      "overrideName": "2394A44D-14E5-451D-A5A9-CB6597C66F26_stringValue",
+      "value": "活色生香"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1F9E25C5-276E-4893-8864-5CC99F0622F0",
+  "verticalSpacing": 0
+}

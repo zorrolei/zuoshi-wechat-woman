@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "66356726-42D3-4A7F-AF95-CFF9FA7DAA5F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 155,
+    "width": 164,
+    "x": 195,
+    "y": 937
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "home-list-2 copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "72F0BA2C-F241-4E91-BA4E-FD5F756903B2",
+      "overrideName": "5A6D03C7-5067-4D9E-AB83-F0DB4B5CE50A_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0109AF87-9EE7-43B0-9E83-407957539C4C",
+      "overrideName": "2818FBC1-C8D9-4C9C-B14B-7644E868A158_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9a28c78908edcb18663e23028d6f98b918865600.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4609F616-F2CF-49A2-961B-BBD69549CA2C",
+      "overrideName": "1EB8A86E-A7AA-4EC1-9DDC-FF7A86D43043_stringValue",
+      "value": "糖白玉巧雕手镯"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1C551962-B5B9-4A20-9EAB-55BA65082ECE",
+  "verticalSpacing": 0
+}
