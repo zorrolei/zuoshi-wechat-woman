@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8594987A-E81B-4A1E-97D1-FE4CD14329DF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 130,
+    "width": 106,
+    "x": 129,
+    "y": 390
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "home-list-01 copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DFD10E12-69B3-4462-9325-0B2A57C5AFE0",
+      "overrideName": "F7DCF1C4-2997-466D-B4E4-13EA886E52C3_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/12a1c0d07e06614baaf7f53fedfbc96663714e58.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9889D343-06EC-4426-B0ED-B7AE924FFE9C",
+      "overrideName": "92B71774-F9AC-4A5F-A2EE-E73180D1BCF5_stringValue",
+      "value": "平安扣耳环"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8431BC93-BBCD-453B-B2CA-050BB125F250",
+  "verticalSpacing": 0
+}
