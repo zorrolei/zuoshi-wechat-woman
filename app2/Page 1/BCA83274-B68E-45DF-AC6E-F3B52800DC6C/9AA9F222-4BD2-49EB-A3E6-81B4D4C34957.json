@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9AA9F222-4BD2-49EB-A3E6-81B4D4C34957",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1A9CD7F3-F7B1-4D65-BCB6-051219D00F8D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3FABD3D6-CCC1-4F27-BBEC-E10B491F71E4",
+    "height": 98,
+    "width": 343,
+    "x": 17,
+    "y": 1483
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list_news_02",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "92C74296-9356-4814-A6EC-06AA01A74ED8",
+      "overrideName": "87710A8C-4023-4D0D-8433-AC66B0F357A5_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/a569589b099fd6295023a8924bb04c9e63e2cd7d.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D09586AE-F15E-4402-8C80-7A3222B9E87C",
+      "overrideName": "F5B11A6B-DA3C-42EE-8F29-1414412DC2FA_stringValue",
+      "value": "四点看和田玉作品收藏"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9EEACB80-7BD6-4E12-8B3B-7A44447E5D64",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "182BD76E-97A3-4005-92C1-B51013A30ED3",
+  "verticalSpacing": 0
+}

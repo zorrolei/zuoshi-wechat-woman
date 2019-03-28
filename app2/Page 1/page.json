@@ -52,16 +52,24 @@
       "id": "703BAD2B-C44D-4E45-A866-68A546BB1138"
     },
     {
-      "class": "bitmap",
-      "id": "3C72CDD1-4E21-4E37-88AA-1267BCDBF344"
-    },
-    {
       "class": "artboard",
       "id": "6A2C7773-8248-4A71-B091-9F587447A26C"
     },
     {
       "class": "artboard",
       "id": "CFC2B1D2-3135-4AFA-90DB-55C24CB171B6"
+    },
+    {
+      "class": "artboard",
+      "id": "BCA83274-B68E-45DF-AC6E-F3B52800DC6C"
+    },
+    {
+      "class": "bitmap",
+      "id": "3C72CDD1-4E21-4E37-88AA-1267BCDBF344"
+    },
+    {
+      "class": "group",
+      "id": "C84B5349-AE75-4962-8826-1592014F8C86"
     }
   ],
   "name": "Page 1",

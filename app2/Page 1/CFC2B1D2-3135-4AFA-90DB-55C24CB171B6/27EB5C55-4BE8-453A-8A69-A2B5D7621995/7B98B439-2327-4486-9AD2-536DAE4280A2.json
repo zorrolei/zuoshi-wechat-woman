@@ -27,11 +27,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 2,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "资讯"
+    "string": "资讯列表"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 26,
-    "width": 37,
-    "x": 169,
+    "width": 74,
+    "x": 150.5,
     "y": 28
   },
-  "glyphBounds": "{{1, 4}, {36, 19}}",
+  "glyphBounds": "{{1, 4}, {73, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3BE83368-D1F1-48A0-A1FF-0A9930547B92",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "80C8AF7C-7B32-4778-B9E9-F3AA82D77AE1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2E4FE138-271B-4DB3-8EB8-7BDA4BB56AF1",
+    "height": 76,
+    "width": 108,
+    "x": 235,
+    "y": 1
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "ACFD69C4-42A7-4919-87E2-C0A659ABC62C"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F9157879-D106-4A0D-9F86-CB6047FF2E24"
+    },
+    {
+      "class": "rectangle",
+      "id": "5ABF2FAB-A85E-4D57-8AA1-1AB8A519E023"
+    }
+  ],
+  "name": "Rectangle 4 Copy 6",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "82FC5EFE-BA1D-4D79-8AD2-DB4481157835",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "82BA8F76-661B-4BF8-AB87-4CD7C09D7D3B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

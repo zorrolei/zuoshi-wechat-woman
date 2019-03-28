@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2E1B65EA-8186-4BC7-9E19-4E6A2FE4994E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "701A40AD-1706-4D91-BB94-69DA44D668E7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BFB65343-5EF4-4ABE-842B-EC8A6C66B884",
+    "height": 98,
+    "width": 343,
+    "x": 17,
+    "y": 1719
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list_news_02 copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "87710A8C-4023-4D0D-8433-AC66B0F357A5_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/c930ff6f3401df74753844242fdc6c135ac6d34b.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F5B11A6B-DA3C-42EE-8F29-1414412DC2FA_stringValue",
+      "value": "别样清美，那些多材质混编手串！"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "59D28CE6-6F72-4A7C-8724-08B38BCE0151",
+      "overrideName": "7E8F71C6-1D1A-47C9-8E95-06D1897BBD71_stringValue",
+      "value": "2小时前"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D60428F9-BC3C-44BE-9F10-38F08AC1C7E4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "182BD76E-97A3-4005-92C1-B51013A30ED3",
+  "verticalSpacing": 0
+}
