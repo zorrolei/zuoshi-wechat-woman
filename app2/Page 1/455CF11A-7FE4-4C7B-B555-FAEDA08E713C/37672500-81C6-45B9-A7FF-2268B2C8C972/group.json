@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "37672500-81C6-45B9-A7FF-2268B2C8C972",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "56FE3919-DB8F-4F99-9C41-D48F7CF4B98E"
+    },
+    {
+      "class": "rectangle",
+      "id": "E35D5744-B337-4AA9-984F-4514CA288045"
+    },
+    {
+      "class": "group",
+      "id": "13692C0E-F11F-410D-8129-10F1E238F6B3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6D4D84D7-15A3-4DB6-8ADB-39DF3DD313D9"
+    },
+    {
+      "class": "text",
+      "id": "2BA349A6-688B-4AAE-BA73-0EB94B365FC5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "16FEECEE-E420-4F12-AFA8-8539CDE783B4"
+    },
+    {
+      "class": "shapePath",
+      "id": "C10031BD-2F0C-44FD-A3AD-A66DB92FDF64"
+    }
+  ],
+  "name": "iOS White With Back",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "40CE5CA1-EBE2-426D-ABC8-CA939686DC2B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "96244FA3-E473-43D6-8512-89125BA36F56",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C8CCAC76-09AE-48E6-841C-DBB131B7457A",
+    "height": 16,
+    "width": 59,
+    "x": 35,
+    "y": 1331
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "91C333C4-B1FB-494A-998D-39A59E4A2379"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C1B863D7-273C-4388-B179-02F06C851DD1"
+    },
+    {
+      "class": "text",
+      "id": "9EB2C0D3-0784-4DAE-8602-7A4963D2F547"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "46AB6B58-2466-422C-89FF-9EFFCC8DFACA"
+    }
+  ],
+  "name": "浏览量",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "746619AE-82CE-4486-B5A3-BE2A4948E33D",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.953125,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "A368E335-7A76-43FB-B0C5-59DB48BE6557",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C81F941E-9360-4A9B-A695-4EC8CD001666",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E5154EFF-7E68-4842-9259-0B49C9ECE32C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CC3CCF12-68D6-430A-B0B4-38F71988FD3B",
+    "height": 80,
+    "width": 80,
+    "x": 148,
+    "y": 233
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F18FBB59-A7D4-48FC-BB3A-048DB61A16F4"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7FE036E5-74AF-4A67-9E9F-310E4578BC23"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7DE568AC-52E3-4926-BA31-C7DADB5E27A6"
+    }
+  ],
+  "name": "Combined Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "AF27F8EF-3D3E-4AAE-8A2F-B3989A270E4B",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 44.44444444444444,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "76855F01-E466-47D7-8E70-3E0C4ED8F8E0",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9176470588235294,
+          "green": 0.9176470588235294,
+          "red": 0.9176470588235294
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

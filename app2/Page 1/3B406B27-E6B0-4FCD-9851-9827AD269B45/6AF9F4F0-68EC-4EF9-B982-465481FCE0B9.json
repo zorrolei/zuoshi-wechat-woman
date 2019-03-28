@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6AF9F4F0-68EC-4EF9-B982-465481FCE0B9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 53,
+    "width": 349,
+    "x": 19,
+    "y": 144
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "comment-list copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FA7AA8D4-4649-4AA6-9097-D12DE0DEED47",
+      "overrideName": "A1AF3B58-FEB8-4A54-BE49-F9FC5A4AF61D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/dab1889a4a767f95f7c7ee11a385452ed4b6aeaf.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "71D19A69-2B46-44A9-8B1D-F80CB42C0A6E",
+      "overrideName": "B2D1EC19-68F7-46A4-ACDB-4F0121D85AF9_stringValue",
+      "value": "柴七七"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5B3CCB84-1937-4204-B74B-F37333AB1247",
+      "overrideName": "A33E6691-ADE5-4028-9BBE-BE312C50DECF_stringValue",
+      "value": "漂亮"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "644B9F11-29C7-4C56-BC46-BF49D595E0E5",
+      "overrideName": "390DE101-7E95-4509-AC30-F62A161CD1D7_stringValue",
+      "value": "3小时前"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "58176D4D-2917-4937-8904-AA0D36E932F3",
+  "verticalSpacing": 0
+}

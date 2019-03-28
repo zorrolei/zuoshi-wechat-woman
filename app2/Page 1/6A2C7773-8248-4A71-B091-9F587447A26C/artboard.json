@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1265,
+    "height": 1170,
     "width": 375,
     "x": 2218,
     "y": 305
@@ -91,7 +91,7 @@
     },
     {
       "class": "rectangle",
-      "id": "5E095FFE-B507-44BE-8D30-FE357B57DB55"
+      "id": "3B38A88B-E5A1-4EFF-98AA-0FA3ED992951"
     },
     {
       "class": "text",
@@ -121,7 +121,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {
