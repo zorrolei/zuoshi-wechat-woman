@@ -48,8 +48,20 @@
       "id": "5BBB78A9-9FA2-4091-9988-F79A257D60ED"
     },
     {
+      "class": "artboard",
+      "id": "703BAD2B-C44D-4E45-A866-68A546BB1138"
+    },
+    {
       "class": "bitmap",
       "id": "3C72CDD1-4E21-4E37-88AA-1267BCDBF344"
+    },
+    {
+      "class": "artboard",
+      "id": "6A2C7773-8248-4A71-B091-9F587447A26C"
+    },
+    {
+      "class": "artboard",
+      "id": "CFC2B1D2-3135-4AFA-90DB-55C24CB171B6"
     }
   ],
   "name": "Page 1",

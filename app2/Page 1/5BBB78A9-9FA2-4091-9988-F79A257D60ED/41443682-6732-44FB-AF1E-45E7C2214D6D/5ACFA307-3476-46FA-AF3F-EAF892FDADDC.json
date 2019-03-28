@@ -27,11 +27,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 5,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "左氏和田玉"
+    "string": "产品分类"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -53,11 +53,11 @@
     "constrainProportions": false,
     "do_objectID": "1A649D09-C271-4070-807C-C299E6715BFE",
     "height": 26,
-    "width": 93,
-    "x": 141,
+    "width": 74,
+    "x": 150.5,
     "y": 28
   },
-  "glyphBounds": "{{0, 4}, {92, 18}}",
+  "glyphBounds": "{{0, 4}, {74, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

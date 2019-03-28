@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BCAF8DC4-E7D0-4B1F-BF75-CE696617B7CE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 104,
+    "width": 92,
+    "x": 100,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cate-list copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3C168A92-67E7-4DCF-B192-C1C0649D4E55",
+      "overrideName": "4C1FC8CE-77D1-4A9D-A2FC-3B674DEBBA18_stringValue",
+      "value": "吊坠"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AFC6C40F-0CD2-43FA-8F22-546E3AF8BD91",
+      "overrideName": "EBD97821-D3BF-46F9-8506-CB41024BFCDE_stringValue",
+      "value": "Pendant"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B9B23E12-473D-479F-9978-3203DFA124AE",
+      "overrideName": "ADEC9E92-9A17-43D3-B512-2A99B14FB529_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9e645bd93100244b4ab125c392e5df2990a8a0e1.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "90342384-0320-4948-BC5E-160AE7C95DC9",
+  "verticalSpacing": 0
+}

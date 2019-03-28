@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "230E242C-A819-44A2-BE05-89F08D29F33D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 104,
+    "width": 92,
+    "x": 200,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cate-list copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ACC8E501-876C-4743-BAB0-5425693B7058",
+      "overrideName": "4C1FC8CE-77D1-4A9D-A2FC-3B674DEBBA18_stringValue",
+      "value": "戒指"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "84F0A502-133C-490F-A3F7-A3A3D057C892",
+      "overrideName": "EBD97821-D3BF-46F9-8506-CB41024BFCDE_stringValue",
+      "value": "Ring"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "565CDCB1-B8E9-4D56-9A07-FD67B96ED16F",
+      "overrideName": "ADEC9E92-9A17-43D3-B512-2A99B14FB529_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/21a1c47dfcf0296f93348c4f24875385bd1c8b55.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "90342384-0320-4948-BC5E-160AE7C95DC9",
+  "verticalSpacing": 0
+}

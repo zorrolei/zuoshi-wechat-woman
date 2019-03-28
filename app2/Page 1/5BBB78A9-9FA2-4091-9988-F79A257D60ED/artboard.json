@@ -31,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1072,
+    "height": 1008,
     "width": 375,
     "x": 1268,
     "y": 305
@@ -63,30 +63,6 @@
       "id": "41443682-6732-44FB-AF1E-45E7C2214D6D"
     },
     {
-      "class": "rectangle",
-      "id": "589FED00-C462-4A4C-983C-990E9947A67F"
-    },
-    {
-      "class": "text",
-      "id": "BC6E12CD-DDAB-4713-9AAD-DB994710CBFE"
-    },
-    {
-      "class": "text",
-      "id": "4D510C90-ED3F-422C-B650-8CA3BEA15C17"
-    },
-    {
-      "class": "text",
-      "id": "9F0E2022-3D4E-4F46-8200-58F5641E4F39"
-    },
-    {
-      "class": "text",
-      "id": "E38C5AF6-7F30-4A98-90CF-6EDBE8FC2598"
-    },
-    {
-      "class": "text",
-      "id": "18670C94-725E-4B76-AC14-A4E58D7EA9DA"
-    },
-    {
       "class": "symbolInstance",
       "id": "DB762DD0-F41C-4C43-96D2-380AC450EDCA"
     },
@@ -111,11 +87,19 @@
       "id": "901F7F5F-D207-4D82-A81E-536E1DCC955C"
     },
     {
+      "class": "symbolInstance",
+      "id": "6EF07D77-D476-4C7A-BFB1-89BD886F449F"
+    },
+    {
       "class": "group",
-      "id": "97670EB0-B9F1-4230-95A2-03E3C6910285"
+      "id": "9E915615-3E86-40DC-9BCF-55E9678FD2E0"
+    },
+    {
+      "class": "text",
+      "id": "94E6CA8A-85AB-476A-BE85-8AD79B41ED6A"
     }
   ],
-  "name": "分类页",
+  "name": "首页-产品分类",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

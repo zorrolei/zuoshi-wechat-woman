@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "364F7F8F-698D-483E-969B-90CB934449C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B0A265F7-9673-44DA-8FB1-A21F844F9B16",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7A8AF2E4-2B90-467D-B63F-C0DDDE9A7DE9",
+    "height": 189,
+    "width": 167,
+    "x": 17,
+    "y": 3029
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "home-list-02 copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "379D3A51-6EE8-4B0A-BD80-DCCBF7494818_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/3745ce0c38740fa26bf0f766ba0a9f19af2fae5f.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5585341D-72CD-48CF-AAA1-5A40E048BB90",
+      "overrideName": "160CDDEE-CE9B-4401-B61B-4843C1A16F24_stringValue",
+      "value": "金镶羊脂玉耳环"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1C71FFBE-5C4C-4F3D-A569-7943FD735D4D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "57AE88D9-DA62-4063-92FB-748696AFAC25",
+  "verticalSpacing": 0
+}

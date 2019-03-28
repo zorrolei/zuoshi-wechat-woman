@@ -1,0 +1,69 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8DD6A741-33F8-42AE-9877-7EFF9817E4AE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 104,
+    "width": 92,
+    "x": 400,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cate-list copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4C1FC8CE-77D1-4A9D-A2FC-3B674DEBBA18_stringValue",
+      "value": "耳饰"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "EBD97821-D3BF-46F9-8506-CB41024BFCDE_stringValue",
+      "value": "earring"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AD2267A1-B28A-4E68-BFB1-3AE971E35F5E",
+      "overrideName": "ADEC9E92-9A17-43D3-B512-2A99B14FB529_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d877c62f78b98d4b85ef2fc06374a6a1dfdcf097.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "90342384-0320-4948-BC5E-160AE7C95DC9",
+  "verticalSpacing": 0
+}

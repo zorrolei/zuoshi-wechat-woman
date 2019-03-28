@@ -1,0 +1,69 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2CCF706F-D431-4882-AD56-6A05D3A73383",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 98,
+    "width": 343,
+    "x": 16,
+    "y": 1024
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list_news_02 copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "87710A8C-4023-4D0D-8433-AC66B0F357A5_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/2a788f62a8bccf6bd86ffc0c11a112659add9d60.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7E8F71C6-1D1A-47C9-8E95-06D1897BBD71_stringValue",
+      "value": "3小时前"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EF0B624C-A1A6-4A6B-9CB2-B3223428D569",
+      "overrideName": "F5B11A6B-DA3C-42EE-8F29-1414412DC2FA_stringValue",
+      "value": "和田玉雕花手镯的鉴赏与选购"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "182BD76E-97A3-4005-92C1-B51013A30ED3",
+  "verticalSpacing": 0
+}

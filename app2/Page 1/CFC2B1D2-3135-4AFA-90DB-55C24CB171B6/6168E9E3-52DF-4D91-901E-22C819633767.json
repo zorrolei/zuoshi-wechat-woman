@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6168E9E3-52DF-4D91-901E-22C819633767",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 265,
+    "width": 336,
+    "x": 17,
+    "y": 723
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "news-list copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "38C4554C-D8CA-47F7-8139-6B0FA093DA35_stringValue",
+      "value": "析木玉还是碧玉？你们能分清吗？"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "AC78A62D-66AE-4D6D-9F66-61441B99A57B_stringValue",
+      "value": "玉质细腻油润，清晰自然，玉面雕刻神龙，翻腾奔跃"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7D7A05DE-409A-4179-87A7-6ED14C6F8A0B_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e2009bed84cda59d5ea2e41490155d7ac47a0c11.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1F777E2F-13B0-48A6-8290-9C36836B049A_stringValue",
+      "value": "Vol.4"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A425D1A9-6EEF-4DCA-9A7A-95B08D7843D8",
+  "verticalSpacing": 0
+}

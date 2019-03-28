@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5CE53E42-0AF3-4387-97EE-AE938DA9C066",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 198,
+    "width": 226,
+    "x": 241,
+    "y": 38
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list-news-topic copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4757EA58-1276-4908-9756-B694A7947AEB",
+      "overrideName": "74DC0C8F-EC25-4315-B93D-B060F31115A0_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/62c8adc0065b6c72f14605e1fa02c3152cac6d5a.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1AEAF89E-5636-48D4-B33F-C16062AFC97E",
+      "overrideName": "93EEDAEA-5034-4744-AD0B-43A1DF99736D_stringValue",
+      "value": "温婉大气、典雅柔润的和田"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B8893F34-6970-4ABA-9AAE-62F47A41F5F2",
+      "overrideName": "2242420C-6863-4341-B254-6E5C4A85470C_stringValue",
+      "value": "手镯的造型柔和典雅"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0FE5FF7B-BEC4-4609-96E3-DFA95853CF04",
+  "verticalSpacing": 0
+}

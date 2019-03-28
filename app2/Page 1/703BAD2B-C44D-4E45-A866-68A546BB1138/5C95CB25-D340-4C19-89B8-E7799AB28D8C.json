@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5C95CB25-D340-4C19-89B8-E7799AB28D8C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1A739196-E8F2-446A-A17A-DBAFBE3CDDBD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "422D1830-98BB-496D-A4BD-C79769F24684",
+    "height": 189,
+    "width": 167,
+    "x": 17,
+    "y": 2611
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "home-list-02",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "17CD1DA5-DBB8-4FCC-9A56-C714FD45F302",
+      "overrideName": "379D3A51-6EE8-4B0A-BD80-DCCBF7494818_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d5aa452afb0ed24bfacd6d391f9428999ed7a1fb.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B625CE94-6622-4AB1-A70E-0D8F6020EE3D",
+      "overrideName": "160CDDEE-CE9B-4401-B61B-4843C1A16F24_stringValue",
+      "value": "白玉籽料金镶耳坠"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A0C8DE02-6395-41E0-8D7F-E24DAFAD8072",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "57AE88D9-DA62-4063-92FB-748696AFAC25",
+  "verticalSpacing": 0
+}

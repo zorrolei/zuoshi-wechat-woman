@@ -63,8 +63,8 @@
       "id": "7EC9A485-A7D9-4B10-BF1B-92FB7673837B"
     },
     {
-      "class": "group",
-      "id": "6C568511-F79D-477D-9ED0-5F79209707C8"
+      "class": "symbolInstance",
+      "id": "3FEF913E-1FEF-4EA8-BD3A-90BAC14DA8A9"
     },
     {
       "class": "symbolInstance",
@@ -238,7 +238,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

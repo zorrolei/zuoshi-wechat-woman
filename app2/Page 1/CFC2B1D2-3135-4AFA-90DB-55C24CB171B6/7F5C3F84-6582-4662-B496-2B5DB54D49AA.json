@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7F5C3F84-6582-4662-B496-2B5DB54D49AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 265,
+    "width": 336,
+    "x": 17,
+    "y": 413
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "news-list copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "38C4554C-D8CA-47F7-8139-6B0FA093DA35_stringValue",
+      "value": "化瑕为瑜，曲径通幽"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "AC78A62D-66AE-4D6D-9F66-61441B99A57B_stringValue",
+      "value": "玉质细腻油润，清晰自然，玉面雕刻神龙，翻腾奔跃"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7D7A05DE-409A-4179-87A7-6ED14C6F8A0B_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/86598b2bd2f392867c5b057c6244a539b053fd4f.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1F777E2F-13B0-48A6-8290-9C36836B049A_stringValue",
+      "value": "Vol.5"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A425D1A9-6EEF-4DCA-9A7A-95B08D7843D8",
+  "verticalSpacing": 0
+}
