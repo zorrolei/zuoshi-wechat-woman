@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.6,
-            "green": 0.6,
-            "red": 0.6
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "PingFangSC-Regular",
-              "size": 15
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 21,
-    "width": 180,
-    "x": 98,
-    "y": 1293
+    "width": 213,
+    "x": 47,
+    "y": 1003
   },
-  "glyphBounds": "{{3, 3}, {174, 15}}",
+  "glyphBounds": "{{2, 2}, {208, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,15 +91,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6,
-          "green": 0.6,
-          "red": 0.6
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "PingFangSC-Regular",
-            "size": 15
+            "size": 18
           }
         },
         "paragraphStyle": {
