@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -22,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3313,
+    "height": 2932,
     "width": 375,
     "x": 1743,
     "y": 305
@@ -30,7 +39,7 @@
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -102,10 +111,6 @@
       "id": "FF84B18B-1974-4B66-9AA3-3A73639E9982"
     },
     {
-      "class": "bitmap",
-      "id": "76159D1E-178C-4E12-8654-8A267F2C5B30"
-    },
-    {
       "class": "symbolInstance",
       "id": "5C95CB25-D340-4C19-89B8-E7799AB28D8C"
     },
@@ -136,6 +141,34 @@
     {
       "class": "group",
       "id": "D6AC6235-91E5-4055-A698-3920D80EFBAA"
+    },
+    {
+      "class": "bitmap",
+      "id": "37A55D81-A1A7-4218-8612-4D63071780DE"
+    },
+    {
+      "class": "bitmap",
+      "id": "46762742-C9AA-4D86-9C86-9FF49B6BE66E"
+    },
+    {
+      "class": "bitmap",
+      "id": "90455CA3-19E8-43CA-BA1C-EC205FC81CB9"
+    },
+    {
+      "class": "text",
+      "id": "811F1CC0-8F56-448D-881E-C7048CCB13C3"
+    },
+    {
+      "class": "text",
+      "id": "3BC92A8B-D07B-4A83-9400-FB551990D4E4"
+    },
+    {
+      "class": "text",
+      "id": "DE9D1131-C46D-4414-9EB0-F48F17B27C5A"
+    },
+    {
+      "class": "text",
+      "id": "AC986A7C-1532-4AA2-A289-B01AE072B9A8"
     }
   ],
   "name": "首页-产品分类-详情",
