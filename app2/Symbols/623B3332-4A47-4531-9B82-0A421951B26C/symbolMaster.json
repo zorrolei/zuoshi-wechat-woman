@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 10,
+  "changeIdentifier": 11,
   "clippingMaskMode": 0,
   "do_objectID": "623B3332-4A47-4531-9B82-0A421951B26C",
   "exportOptions": {
@@ -75,7 +75,7 @@
   "symbolID": "B824AF7F-B8DC-4211-84EE-35D0BCDE1FC6",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

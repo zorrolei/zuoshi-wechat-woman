@@ -1,0 +1,121 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "462C54DB-4395-4269-B7E1-3A2038B8F0F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 793,
+    "width": 375,
+    "x": 8494,
+    "y": 305
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F44D499B-676B-4DD0-A968-4FE15E4BC7DA"
+    },
+    {
+      "class": "group",
+      "id": "DCE5578B-1827-4AD1-8C75-528A8AA1BFB3"
+    },
+    {
+      "class": "group",
+      "id": "8E11C8A7-D7E8-48E1-9595-EBF24A43B6BF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D5AD5142-BD5F-407B-BAB3-81CB82EBCA6E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "203930AB-7A9A-47DB-9BCD-73663488DD23"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "186AEC77-43B2-4F98-B005-D0774FD2D2D7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7C28C385-00A4-4790-9B2F-A7F411793D3C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "73FECCE7-6F46-44AD-9D50-514EEE4F4660"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "83E4647D-DC67-4B7D-8AB5-8BD94E268E1F"
+    }
+  ],
+  "name": "我的-足迹-美玉",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

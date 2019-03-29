@@ -1,0 +1,113 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4140D170-B68C-4081-A95B-734A147E7A6F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 5543,
+    "y": 305
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DA25D9C6-C6DE-44B7-80B9-395EAC968A04"
+    },
+    {
+      "class": "text",
+      "id": "8E8D5AC8-B4CC-4286-A275-3FF0CE333FFC"
+    },
+    {
+      "class": "rectangle",
+      "id": "736AC038-EE0D-42B3-8774-ED6F7C1CCC3D"
+    },
+    {
+      "class": "group",
+      "id": "4B12D2C0-D2C3-4F13-BD33-906CDEA2985D"
+    },
+    {
+      "class": "rectangle",
+      "id": "AC084EFF-CBD8-4D6A-9D01-C8DF2979C8E6"
+    },
+    {
+      "class": "bitmap",
+      "id": "BC3B7AED-9CA3-48BA-8DA5-CC9660D4D11F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "63D327E6-9118-4C80-BEF7-6C7A9B261817"
+    }
+  ],
+  "name": "我要晒图",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

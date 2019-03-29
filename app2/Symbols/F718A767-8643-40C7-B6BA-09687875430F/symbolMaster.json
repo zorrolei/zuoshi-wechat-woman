@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 84,
+  "changeIdentifier": 110,
   "clippingMaskMode": 0,
   "do_objectID": "F718A767-8643-40C7-B6BA-09687875430F",
   "exportOptions": {
@@ -52,8 +52,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "214FD469-9434-4DCD-B05B-85CF3036AAAA"
+      "class": "group",
+      "id": "8F08CED5-7ADF-4A4F-ADA2-569048158326"
     }
   ],
   "name": "tabs/icon_news_active",
@@ -75,7 +75,7 @@
   "symbolID": "0AD8B1D0-99FD-4D28-AF6F-2A64ADAD38E9",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

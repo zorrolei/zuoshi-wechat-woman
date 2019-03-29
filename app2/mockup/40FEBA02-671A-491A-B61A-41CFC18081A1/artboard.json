@@ -1,0 +1,118 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "green": 0,
+    "red": 0
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "40FEBA02-671A-491A-B61A-41CFC18081A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 600,
+    "width": 800,
+    "x": 3470,
+    "y": -316
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "B9F595FF-DABA-4227-8D28-08B9634CB15D"
+    },
+    {
+      "class": "text",
+      "id": "C14A77D3-2B14-4B51-B67B-A9E0588FE0D1"
+    },
+    {
+      "class": "text",
+      "id": "6E28157B-6B8C-48F9-B46C-6C930850952B"
+    },
+    {
+      "class": "group",
+      "id": "753E9C4E-7C2F-42F6-8333-81F49CF0E56F"
+    },
+    {
+      "class": "bitmap",
+      "id": "A78CAC8D-F688-4E1E-A921-4CD5E2CFCD9E"
+    },
+    {
+      "class": "text",
+      "id": "504A54C5-771E-4841-AF2D-301935E4523A"
+    },
+    {
+      "class": "text",
+      "id": "8226FCED-853F-411B-9A9F-07C22760ED02"
+    },
+    {
+      "class": "shapePath",
+      "id": "E30018F0-A661-47E9-9160-01927CF3957D"
+    },
+    {
+      "class": "shapePath",
+      "id": "FDBCAAA5-4700-4056-B622-FDCA50E14C8E"
+    },
+    {
+      "class": "shapePath",
+      "id": "C653738F-38B2-4373-A1C7-701FE7F64842"
+    }
+  ],
+  "name": "05",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 2
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

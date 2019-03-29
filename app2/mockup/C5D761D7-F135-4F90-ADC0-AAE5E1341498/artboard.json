@@ -1,0 +1,106 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "green": 0,
+    "red": 0
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C5D761D7-F135-4F90-ADC0-AAE5E1341498",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 600,
+    "width": 800,
+    "x": 1670,
+    "y": -316
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "53B25232-1DED-48F5-ADD6-DF03516D31A2"
+    },
+    {
+      "class": "text",
+      "id": "1B387154-191F-4425-8072-6160E2A040AD"
+    },
+    {
+      "class": "text",
+      "id": "F8549125-5A26-4629-92AF-6578FFE9B4C9"
+    },
+    {
+      "class": "text",
+      "id": "A9A1B66B-3A3C-435E-B1E2-76C7F4F68121"
+    },
+    {
+      "class": "rectangle",
+      "id": "D8D8931A-6ACB-435F-B925-6BA3520A2260"
+    },
+    {
+      "class": "group",
+      "id": "1DD908DA-B27B-45C8-9DA8-7C941C1A33B5"
+    },
+    {
+      "class": "text",
+      "id": "C187F1F2-3636-4C25-8064-8E8E7C24DACE"
+    }
+  ],
+  "name": "03",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 2
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

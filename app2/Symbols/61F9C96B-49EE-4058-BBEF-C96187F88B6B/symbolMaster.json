@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 53,
   "clippingMaskMode": 0,
   "do_objectID": "61F9C96B-49EE-4058-BBEF-C96187F88B6B",
   "exportOptions": {
@@ -59,6 +59,11 @@
   "name": "button_01",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6CB8354B-0A48-46F3-9391-E7282DA07B73_stringValue"
+    }
   ],
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -73,6 +78,11 @@
     "windingRule": 1
   },
   "symbolID": "4D8B1CD4-BB9C-4586-B9A9-44F7E2543E6E",
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

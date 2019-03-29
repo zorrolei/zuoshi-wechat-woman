@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 73,
+  "changeIdentifier": 99,
   "clippingMaskMode": 0,
   "do_objectID": "D8B64D73-F1AB-43A3-BA0D-8EB37083E21E",
   "exportOptions": {
@@ -52,8 +52,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "9B4BA583-2FBC-4253-8F67-6ECA75B27CDB"
+      "class": "group",
+      "id": "F6F0E6BC-75DA-435A-A767-7264023BDBE5"
     }
   ],
   "name": "tabs/icon_account_active",
@@ -75,7 +75,7 @@
   "symbolID": "604E1482-1BAF-4056-8555-48C507F22741",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

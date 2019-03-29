@@ -1,0 +1,110 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "green": 0,
+    "red": 0
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B2DA28CA-3B12-457B-9111-2BDF55DAE76C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 600,
+    "width": 800,
+    "x": 2570,
+    "y": -316
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "E1C0046F-EA14-4FEE-8281-69636EB10D43"
+    },
+    {
+      "class": "text",
+      "id": "E71E729E-5EFF-4B25-917E-E386E7340483"
+    },
+    {
+      "class": "text",
+      "id": "297408E2-A0D6-4B27-81E4-D4ED0849C6D3"
+    },
+    {
+      "class": "group",
+      "id": "DF51ECF6-889B-4865-BC45-E3157B3EA049"
+    },
+    {
+      "class": "bitmap",
+      "id": "AB336E9E-CB1F-425D-99D7-774B28F50305"
+    },
+    {
+      "class": "shapePath",
+      "id": "ED2A67C7-9421-4734-8CC9-F59DA6FB274D"
+    },
+    {
+      "class": "text",
+      "id": "D7AD057C-8B08-4FC4-8F74-756331472D3E"
+    },
+    {
+      "class": "text",
+      "id": "63CA9F60-584F-4424-AC74-F15B0BC76536"
+    }
+  ],
+  "name": "04",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 2
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
