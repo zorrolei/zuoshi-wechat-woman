@@ -31,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2932,
+    "height": 2869,
     "width": 375,
     "x": 1743,
     "y": 305
@@ -63,8 +63,8 @@
       "id": "69615371-B581-45B0-AF63-9097714A6BE2"
     },
     {
-      "class": "rectangle",
-      "id": "0812DDA9-1110-41E9-825A-8E86BCF97A49"
+      "class": "group",
+      "id": "81B6E61D-7487-491D-81D4-C0F7BC0A77A7"
     },
     {
       "class": "text",

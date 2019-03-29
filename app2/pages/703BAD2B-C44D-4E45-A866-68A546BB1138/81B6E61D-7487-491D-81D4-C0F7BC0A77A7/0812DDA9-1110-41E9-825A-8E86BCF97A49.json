@@ -17,12 +17,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 330,
+    "height": 260,
     "width": 345,
-    "x": 15,
-    "y": 79
+    "x": 0,
+    "y": 0
   },
-  "hasClippingMask": false,
+  "hasClippingMask": true,
   "hasConvertedToNewRoundCorners": true,
   "isClosed": true,
   "isFixedToViewport": false,
@@ -31,7 +31,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle",
+  "name": "Mask",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -109,7 +109,7 @@
           "green": 0.847,
           "red": 0.847
         },
-        "fillType": 4,
+        "fillType": 0,
         "image": {
           "_class": "MSJSONFileReference",
           "_ref": "images/fc1d300e3cf450913993b6da08186ddd7f6db0ef.png",

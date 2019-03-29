@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "93F3C42E-EE06-49F8-A7DC-3C93B8832A14",
+  "do_objectID": "81B6E61D-7487-491D-81D4-C0F7BC0A77A7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 22,
-    "width": 38,
-    "x": 61,
-    "y": 354
+    "height": 260,
+    "width": 345,
+    "x": 15,
+    "y": 79
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -34,14 +34,14 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "C7621126-91C7-45F2-988D-94506F4FB215"
+      "id": "0812DDA9-1110-41E9-825A-8E86BCF97A49"
     },
     {
-      "class": "text",
-      "id": "18CF27E8-FA26-4A6A-AF55-68E250216266"
+      "class": "bitmap",
+      "id": "B01F72E6-3205-4B8D-9CD8-C7A39E68E641"
     }
   ],
-  "name": "Group Copy",
+  "name": "Bitmap",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
