@@ -1,0 +1,117 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A6976C56-27B8-4E13-8364-40899D2764B9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 718,
+    "width": 375,
+    "x": 8969,
+    "y": 305
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "FD41A1CC-2F45-4E8D-9248-F15579A5649E"
+    },
+    {
+      "class": "group",
+      "id": "56DEB8B4-4B32-4698-AC0C-B0B1A26C6790"
+    },
+    {
+      "class": "group",
+      "id": "A8B1D1D1-31D5-48E5-B494-FACD3342EC38"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "45EA1DAA-D7D8-4107-94F3-8262DFC5A2B7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DC195D14-2525-4CBB-A164-37A0E6D9D190"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6562D413-B1F4-4CDA-8956-992665B9EA53"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "38CBF1AE-F1DE-423D-B2B8-ABA69738D3B2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "67A54B6D-9D05-4EA5-B0BE-BB5E1CC5F1E1"
+    }
+  ],
+  "name": "我的-足迹-资讯",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

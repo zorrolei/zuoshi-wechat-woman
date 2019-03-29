@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "99A54CDC-7C11-4A5F-A07A-6E9B818FA358",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "96365241-E48D-4A15-A5D2-443F6282EC86",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "009E36C3-1D3C-434B-84C7-EE0A26E2CC04",
+    "height": 98,
+    "width": 343,
+    "x": 16,
+    "y": 245
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list_news_02 copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "87710A8C-4023-4D0D-8433-AC66B0F357A5_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/2fabed4c67e64ca635fe1a379f23ba652226d5d0.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "46C1E265-EB37-471B-A53A-C486C5418518",
+      "overrideName": "F5B11A6B-DA3C-42EE-8F29-1414412DC2FA_stringValue",
+      "value": "加强玉雕题材设计意识对现代玉雕发展至关重要"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5C0D0D2A-A18E-4AE4-BB2C-E8514579AAA5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "182BD76E-97A3-4005-92C1-B51013A30ED3",
+  "verticalSpacing": 0
+}

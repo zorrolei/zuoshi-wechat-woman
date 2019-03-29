@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D85A2BEC-4C3E-4763-ADDC-A418E8C2DB8F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "30C6857C-ABB1-44FC-B861-A073207AB3DB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "30644CFA-94EF-432F-8509-490EB374C8DE",
+    "height": 40,
+    "width": 360,
+    "x": 15,
+    "y": 65
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cell/input Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C481E746-F0F3-4967-B22C-81557B21C032_stringValue",
+      "value": "手机号"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CB8C2E58-3FE1-4914-AA79-1925904671F1_stringValue",
+      "value": "请输入手机号"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D9FDC961-E726-4EE7-9790-B26BF9D3D3CF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C14795D2-DA89-4640-92F9-426D0670E8CE",
+  "verticalSpacing": 0
+}

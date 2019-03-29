@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "810AE093-749F-4769-9A47-315A221FAC12",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "48D47A05-635E-43BC-97A5-B2C67F251E69",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "687B1F53-2EBA-426E-9CDE-F28F45F13626",
+    "height": 35,
+    "width": 375,
+    "x": 0,
+    "y": 139
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cell/Notes Copy 7",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9EA23A21-B125-4D4C-90DE-E44CE3AFE908_stringValue",
+      "value": "反馈意见"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "82F19151-A8C1-4F5F-B379-BD4D5A32BC03",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5C717B23-E2D3-45DC-984A-EF6F1CFDDF6F",
+  "verticalSpacing": 0
+}

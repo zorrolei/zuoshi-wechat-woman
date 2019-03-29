@@ -132,6 +132,10 @@
     {
       "class": "group",
       "id": "FBE27AA3-961C-4353-8557-E801FE11AFCB"
+    },
+    {
+      "class": "group",
+      "id": "D6AC6235-91E5-4055-A698-3920D80EFBAA"
     }
   ],
   "name": "首页-产品分类-详情",
@@ -157,7 +161,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EA3DEBE2-8917-479B-B74F-78E72372017F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8A4974DD-80C1-43DD-839A-E3AEA7FF6BC8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "59F4BFC6-BDC3-4F25-BFEB-7D76687AD118",
+    "height": 50,
+    "width": 360,
+    "x": 15,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cell/list view icon",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4F6A06BE-C365-452C-8F13-5FC8C234A98F_stringValue",
+      "value": "头像"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4C909AC1-3E53-4399-9E49-EF14321549FE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "02FCE1FC-F7C6-42E0-8BCE-3D6E3C18B90D",
+  "verticalSpacing": 0
+}

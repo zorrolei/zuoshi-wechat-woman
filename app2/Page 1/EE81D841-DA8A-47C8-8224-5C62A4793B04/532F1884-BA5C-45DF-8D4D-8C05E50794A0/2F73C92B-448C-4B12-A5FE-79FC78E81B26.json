@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2F73C92B-448C-4B12-A5FE-79FC78E81B26",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4BF19A51-817C-40D2-ADF1-63DBE045D91C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B27B70BF-77B2-4AC8-8DF2-A8358AC420C4",
+    "height": 40,
+    "width": 360,
+    "x": 15,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cell/text",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1BDB5D4C-C4FF-4596-8474-76D88905DA2C",
+      "overrideName": "2FF41AD4-4163-49CB-BAC2-851252D02003_stringValue",
+      "value": "请输入您的手机号"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "306D5693-2017-4E55-938C-3C9E0C4CAA63",
+      "overrideName": "71E9F1B9-2F14-47F3-ACDF-1B3B73C5DB71_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "32EA2BAD-78CB-4F3C-89DE-9DD7384FDB0A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9D362042-6F28-4911-8341-7039F36EDF92",
+  "verticalSpacing": 0
+}

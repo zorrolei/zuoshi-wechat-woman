@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "711A3CD3-6C71-4FC1-BEE3-EF84880D1A56",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C7AFAFA7-6F69-4258-83AC-11304DD78301",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CA2A40C3-617D-4BD7-8DC0-C58B74380902",
+    "height": 60,
+    "width": 360,
+    "x": 15,
+    "y": 107
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cell/list view icon",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "66ED001B-237E-4E36-B8CD-2EC9C117BF9D",
+      "overrideName": "9423EA00-0D81-4DBE-85C5-912741D4B40F_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DD445062-2BBD-4C61-BE51-4FD616E9C331",
+      "overrideName": "7EBDC9E4-5A00-4955-89BC-FC0DB7AFB295_stringValue",
+      "value": "Jacqueline Asong"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "04047C17-DC7F-4C6D-8DFD-B8CD14DBAD2A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "121CB829-018C-4091-86D1-BFBF79059C93",
+  "verticalSpacing": 0
+}

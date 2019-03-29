@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F1C77F5A-12B6-4C7A-B62F-DFFBA944ED86",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "80FBE72E-B5DE-4741-B9C3-58E8B1553931",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "334CD8FF-3FD3-4AB7-861C-4707EDA2C1D6",
+    "height": 20,
+    "width": 20,
+    "x": 0,
+    "y": 15
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "pic/Grid",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8CFB93F6-BB41-4691-B5D8-301CB2D9958F",
+      "overrideName": "190D7797-3DDC-4603-B561-C0E176CCF800_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/1947f5d108b763afb3f7167b0c51620404d3472b.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FC1146A7-EB10-489D-8C74-72D4E12FD48E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0D891A6F-2A53-4869-A653-A48A14E43790",
+  "verticalSpacing": 0
+}

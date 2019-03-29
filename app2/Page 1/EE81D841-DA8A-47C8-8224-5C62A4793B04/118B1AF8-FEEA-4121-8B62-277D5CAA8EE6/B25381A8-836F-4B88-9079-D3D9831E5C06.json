@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B25381A8-836F-4B88-9079-D3D9831E5C06",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7FF081FF-610A-419A-B004-EBC87BCF81BC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "63DACF56-4406-47AD-9D98-5FA516DBBE30",
+    "height": 120,
+    "width": 360,
+    "x": 15,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cell/text field",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DDA998FA-72F4-44C5-BF1C-8E12A69148E2",
+      "overrideName": "60C7B1E6-38DB-4C51-BA97-39743DB0B8C1_stringValue",
+      "value": "请输入反馈意见"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2FA70337-BC4B-491B-A223-EF427C2AB8F0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "767F8A88-4B36-46F8-80DA-C6987716842F",
+  "verticalSpacing": 0
+}

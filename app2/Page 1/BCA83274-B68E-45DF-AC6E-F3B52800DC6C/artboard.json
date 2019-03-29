@@ -116,6 +116,10 @@
     {
       "class": "symbolInstance",
       "id": "1CEA82FB-1112-4C82-8FD8-DC33A8ED538F"
+    },
+    {
+      "class": "group",
+      "id": "099A2C44-B1F4-4DE6-B463-31111C90261B"
     }
   ],
   "name": "资讯详情",
@@ -141,7 +145,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

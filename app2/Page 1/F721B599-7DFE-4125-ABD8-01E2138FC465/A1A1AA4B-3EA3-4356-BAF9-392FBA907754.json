@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A1A1AA4B-3EA3-4356-BAF9-392FBA907754",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "77D2C3F6-CF8C-472B-96F1-92626EEB4D10",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "93ACA88A-6C65-4C43-88F1-B3C900E09B36",
+    "height": 40,
+    "width": 360,
+    "x": 15,
+    "y": 64
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cell/input",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "600D2CB2-4DEF-4890-AE8F-2BE018DA1EF5_stringValue",
+      "value": "昵称 "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C7FC31B5-7507-4AEE-9CC9-259130938244_stringValue",
+      "value": "请输入昵称"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C71FB0A2-B5E3-409C-A567-76A1B3BA8939",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FDA400BF-01D1-4177-9233-25FE305EAD79",
+  "verticalSpacing": 0
+}
