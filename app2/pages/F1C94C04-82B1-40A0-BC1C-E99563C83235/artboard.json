@@ -56,8 +56,12 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "slice",
+      "id": "9F68DB1D-DDD7-4095-89A3-A94A994F8CA2"
+    },
     {
       "class": "group",
       "id": "7EC9A485-A7D9-4B10-BF1B-92FB7673837B"
@@ -135,12 +139,8 @@
       "id": "AA2B300C-5604-4E7C-92BA-7A2B7539E228"
     },
     {
-      "class": "oval",
-      "id": "3A31F56B-F5DE-4415-977A-AD54C3BA66B9"
-    },
-    {
-      "class": "shapePath",
-      "id": "85907285-4071-4D2D-A0E3-B91290DF45A3"
+      "class": "group",
+      "id": "4555380E-3E8D-484E-B3F8-695E00B9EBED"
     },
     {
       "class": "group",
@@ -238,7 +238,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

@@ -33,12 +33,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "0B3BC571-7206-4A47-9586-E47E3650D1A7"
-    },
-    {
-      "class": "shapePath",
-      "id": "F515EDB0-C874-48A8-9A45-41475D5B2C77"
+      "class": "shapeGroup",
+      "id": "F9861785-5CFD-4770-A807-6D2E6F52C314"
     }
   ],
   "name": "Group 2",

@@ -1260,17 +1260,17 @@
           {
             "_class": "MSImmutableOverrideProperty",
             "canOverride": true,
+            "overrideName": "9975C590-AC42-4FD3-81C1-F3C670E75E39_textStyle"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
             "overrideName": "EDF1570B-5945-41DD-897C-808637714057_textStyle"
           },
           {
             "_class": "MSImmutableOverrideProperty",
             "canOverride": true,
             "overrideName": "9975C590-AC42-4FD3-81C1-F3C670E75E39_stringValue"
-          },
-          {
-            "_class": "MSImmutableOverrideProperty",
-            "canOverride": true,
-            "overrideName": "9975C590-AC42-4FD3-81C1-F3C670E75E39_textStyle"
           }
         ],
         "resizesContent": true,
@@ -2546,17 +2546,17 @@
           {
             "_class": "MSImmutableOverrideProperty",
             "canOverride": true,
+            "overrideName": "EDF1570B-5945-41DD-897C-808637714057_textStyle"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
             "overrideName": "9975C590-AC42-4FD3-81C1-F3C670E75E39_stringValue"
           },
           {
             "_class": "MSImmutableOverrideProperty",
             "canOverride": true,
             "overrideName": "9975C590-AC42-4FD3-81C1-F3C670E75E39_textStyle"
-          },
-          {
-            "_class": "MSImmutableOverrideProperty",
-            "canOverride": true,
-            "overrideName": "EDF1570B-5945-41DD-897C-808637714057_textStyle"
           }
         ],
         "resizesContent": true,

@@ -2,10 +2,19 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "58A03374-0091-4AE7-A870-B909592613B8",
+  "do_objectID": "FB80B167-7406-4546-811F-210B189FC0EF",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -15,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 113,
-    "width": 234,
-    "x": 135,
-    "y": 731
+    "height": 79,
+    "width": 375,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,11 +42,15 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "43B71258-D602-4FB3-888A-67BC78BDAB85"
+      "class": "shapeGroup",
+      "id": "48A333BD-582A-4CE7-BE29-8DE1F8CBE2FC"
+    },
+    {
+      "class": "slice",
+      "id": "8BAA6495-F132-4363-A2F3-828419358E4B"
     }
   ],
-  "name": "Fill 30 + Fill 114 + Combined Shape + Combined Shape Copy 2 + Combined Shape Copy + Rectangle Mask",
+  "name": "Group 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

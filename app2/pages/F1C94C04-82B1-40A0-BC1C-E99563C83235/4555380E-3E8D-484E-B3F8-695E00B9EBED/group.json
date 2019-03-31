@@ -2,10 +2,19 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "58A03374-0091-4AE7-A870-B909592613B8",
+  "do_objectID": "4555380E-3E8D-484E-B3F8-695E00B9EBED",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -15,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 113,
-    "width": 234,
-    "x": 135,
-    "y": 731
+    "height": 14,
+    "width": 14,
+    "x": 353,
+    "y": 352
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,11 +42,15 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "43B71258-D602-4FB3-888A-67BC78BDAB85"
+      "class": "oval",
+      "id": "3A31F56B-F5DE-4415-977A-AD54C3BA66B9"
+    },
+    {
+      "class": "shapePath",
+      "id": "85907285-4071-4D2D-A0E3-B91290DF45A3"
     }
   ],
-  "name": "Fill 30 + Fill 114 + Combined Shape + Combined Shape Copy 2 + Combined Shape Copy + Rectangle Mask",
+  "name": "Group",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
