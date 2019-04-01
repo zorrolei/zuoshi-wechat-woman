@@ -1,9 +1,8 @@
 {
-  "_class": "bitmap",
+  "_class": "group",
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "DB97B324-3A2D-41AB-A45F-A1E99C369679",
+  "do_objectID": "6A64F6B0-0641-4D25-9C10-A13E1394C0B4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,7 +12,7 @@
         "fileFormat": "png",
         "name": "",
         "namingScheme": 0,
-        "scale": 1,
+        "scale": 2,
         "visibleScaleType": 0
       }
     ],
@@ -22,29 +21,36 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 345,
-    "width": 345,
-    "x": 16,
-    "y": 1001
+    "constrainProportions": false,
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 2
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/ea94b1e966718f44524fa3ab540f7a0803fbc78d.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Bitmap",
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1B01B865-5663-4A22-BD4D-7BCF21DF6476"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5566138E-FD32-4CD6-8C54-69B53806A004"
+    }
+  ],
+  "name": "Group 3",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

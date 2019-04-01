@@ -1,9 +1,14 @@
 {
-  "_class": "bitmap",
+  "_class": "slice",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
-  "clippingMaskMode": 0,
-  "do_objectID": "DB97B324-3A2D-41AB-A45F-A1E99C369679",
+  "do_objectID": "96678E86-5A07-4A41-9B26-05DDF3E9E0ED",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,39 +27,25 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 345,
-    "width": 345,
-    "x": 16,
-    "y": 1001
+    "constrainProportions": false,
+    "height": 140,
+    "width": 226,
+    "x": 0,
+    "y": 38
   },
-  "hasClippingMask": false,
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/ea94b1e966718f44524fa3ab540f7a0803fbc78d.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 0,
+  "hasBackgroundColor": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Bitmap",
+  "name": "Group 9",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
-  "style": {
-    "_class": "style",
-    "endMarkerType": 0,
-    "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
-  }
+  "shouldBreakMaskChain": false
 }

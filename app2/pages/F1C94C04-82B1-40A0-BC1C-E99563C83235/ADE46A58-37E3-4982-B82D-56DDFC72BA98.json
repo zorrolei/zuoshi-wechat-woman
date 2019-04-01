@@ -46,6 +46,12 @@
       "do_objectID": "8224A427-58C7-4751-B6B9-7B44E2F9C981",
       "overrideName": "160CDDEE-CE9B-4401-B61B-4843C1A16F24_stringValue",
       "value": "金镶碧玉耳坠"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EBE24BF8-491D-4A2F-BD7D-D155A277A98F",
+      "overrideName": "3342EEE4-2163-4312-9C65-FED2A889202C_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 63,

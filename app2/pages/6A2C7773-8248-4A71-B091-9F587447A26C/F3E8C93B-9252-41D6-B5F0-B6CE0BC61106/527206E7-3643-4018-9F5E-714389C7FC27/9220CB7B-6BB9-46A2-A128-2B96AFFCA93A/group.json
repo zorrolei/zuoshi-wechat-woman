@@ -36,16 +36,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "1B01B865-5663-4A22-BD4D-7BCF21DF6476"
+      "class": "group",
+      "id": "6A64F6B0-0641-4D25-9C10-A13E1394C0B4"
     },
     {
       "class": "text",
       "id": "3DDE008E-6C24-4395-9C2D-A5C285679B37"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "5566138E-FD32-4CD6-8C54-69B53806A004"
     }
   ],
   "name": "Group 2 Copy 3",

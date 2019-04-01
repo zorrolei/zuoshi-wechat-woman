@@ -1,8 +1,14 @@
 {
-  "_class": "group",
+  "_class": "slice",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
-  "clippingMaskMode": 0,
-  "do_objectID": "807D4EEF-67DD-486B-98E5-E74B09EF7A77",
+  "do_objectID": "91CA1084-257C-41A8-A0D4-D02CA2A5F85E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,43 +30,22 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 34,
-    "width": 110,
-    "x": 133,
-    "y": 992
+    "height": 160,
+    "width": 167,
+    "x": 15,
+    "y": 1265
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
-  "hasClippingMask": false,
+  "hasBackgroundColor": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "group",
-      "id": "4BFD4B21-28B0-4828-9615-0C17829E31F1"
-    },
-    {
-      "class": "text",
-      "id": "CA2F3648-881C-4C9F-B3CC-50D72F91A73E"
-    }
-  ],
-  "name": "Group 4 Copy",
+  "name": "首页",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
-  "style": {
-    "_class": "style",
-    "endMarkerType": 0,
-    "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
-  }
+  "shouldBreakMaskChain": false
 }

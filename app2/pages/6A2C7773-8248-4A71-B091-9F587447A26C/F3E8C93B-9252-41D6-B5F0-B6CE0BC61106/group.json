@@ -36,6 +36,10 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "slice",
+      "id": "96678E86-5A07-4A41-9B26-05DDF3E9E0ED"
+    },
+    {
       "class": "symbolInstance",
       "id": "85606044-0BD8-4D43-B119-56C9ABD1D7B9"
     },

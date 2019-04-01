@@ -6,6 +6,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -38,7 +47,7 @@
     },
     {
       "class": "bitmap",
-      "id": "B01F72E6-3205-4B8D-9CD8-C7A39E68E641"
+      "id": "4F19C6B6-E603-4329-AA02-D82B37676FEE"
     }
   ],
   "name": "Bitmap",

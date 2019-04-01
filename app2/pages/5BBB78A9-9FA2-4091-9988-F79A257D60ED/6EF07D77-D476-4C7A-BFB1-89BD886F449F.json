@@ -6,6 +6,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -16,7 +25,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 36,
-    "width": 299,
+    "width": 300,
     "x": 38,
     "y": 219
   },
@@ -35,7 +44,13 @@
       "_class": "overrideValue",
       "do_objectID": "5A868728-8BB9-4204-8D2F-070EB1462FB6",
       "overrideName": "2195D419-F5A2-4CFE-99EE-86FD661C5007_stringValue",
-      "value": "BRACELET"
+      "value": "Headwear"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DEA8E060-75E4-4D33-9801-A0EAFF081405",
+      "overrideName": "060FCD60-49C1-4CDA-AFAF-1535237D1BA7_stringValue",
+      "value": "头饰"
     }
   ],
   "resizingConstraint": 63,

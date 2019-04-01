@@ -56,7 +56,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -105,6 +105,10 @@
     {
       "class": "text",
       "id": "A26A419E-928C-496B-B4DE-B35DA41AC7E1"
+    },
+    {
+      "class": "slice",
+      "id": "D886602D-7ED9-4782-98CD-D36F85D9164D"
     }
   ],
   "name": "资讯首页",
@@ -130,7 +134,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

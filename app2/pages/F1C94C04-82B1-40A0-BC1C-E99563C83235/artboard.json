@@ -60,6 +60,10 @@
   "layers": [
     {
       "class": "slice",
+      "id": "91CA1084-257C-41A8-A0D4-D02CA2A5F85E"
+    },
+    {
+      "class": "slice",
       "id": "9F68DB1D-DDD7-4095-89A3-A94A994F8CA2"
     },
     {
@@ -238,7 +242,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {
