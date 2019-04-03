@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 32,
+  "changeIdentifier": 33,
   "clippingMaskMode": 0,
   "do_objectID": "87503270-A947-41B4-8CBC-82507721D245",
   "exportOptions": {
@@ -32,7 +32,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -102,7 +102,7 @@
   "symbolID": "02FCE1FC-F7C6-42E0-8BCE-3D6E3C18B90D",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

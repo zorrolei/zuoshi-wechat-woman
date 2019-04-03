@@ -6,6 +6,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -15,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 16,
-    "width": 59,
+    "height": 10,
+    "width": 18,
     "x": 20,
-    "y": 14
+    "y": 18
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,15 +39,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "D9285446-3C8A-4EB6-AF2A-1923112DC105"
-    },
-    {
-      "class": "text",
-      "id": "586022BF-8626-445D-B825-D49E2CD4D13B"
     },
     {
       "class": "shapeGroup",
