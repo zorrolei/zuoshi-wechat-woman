@@ -28,6 +28,7 @@
       "libraryID": "F55B8C55-90F8-4303-99AA-167FDD09C007",
       "originalMaster": {
         "_class": "symbolMaster",
+        "allowsOverrides": true,
         "backgroundColor": {
           "_class": "color",
           "alpha": 0.6000000238418579,
@@ -1314,6 +1315,7 @@
       "sourceLibraryName": "iOS UI Design",
       "symbolMaster": {
         "_class": "symbolMaster",
+        "allowsOverrides": true,
         "backgroundColor": {
           "_class": "color",
           "alpha": 0.6000000238418579,
@@ -2604,6 +2606,7 @@
       "libraryID": "F55B8C55-90F8-4303-99AA-167FDD09C007",
       "originalMaster": {
         "_class": "symbolMaster",
+        "allowsOverrides": true,
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
@@ -3933,6 +3936,7 @@
       "sourceLibraryName": "iOS UI Design",
       "symbolMaster": {
         "_class": "symbolMaster",
+        "allowsOverrides": true,
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
@@ -5266,6 +5270,7 @@
       "libraryID": "F55B8C55-90F8-4303-99AA-167FDD09C007",
       "originalMaster": {
         "_class": "symbolMaster",
+        "allowsOverrides": true,
         "backgroundColor": {
           "_class": "color",
           "alpha": 0.6000000238418579,
@@ -6564,6 +6569,7 @@
       "sourceLibraryName": "iOS UI Design",
       "symbolMaster": {
         "_class": "symbolMaster",
+        "allowsOverrides": true,
         "backgroundColor": {
           "_class": "color",
           "alpha": 0.6000000238418579,
@@ -7870,9 +7876,9 @@
     ]
   },
   "meta": {
-    "appVersion": "53.2",
-    "build": 72643,
-    "version": 116
+    "appVersion": "54",
+    "build": 76480,
+    "version": 118
   },
   "pages": [
     "pages",
